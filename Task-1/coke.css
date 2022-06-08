@@ -6,7 +6,7 @@ body {
 .container {
     height: 100vh;
     width: 100%;
-    background-image: url(red-bg.webp);
+    background-image: url(./image/red-bg.webp);
     background-position: center;
     background-size: cover;
     padding-right: 3%;
